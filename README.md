@@ -1,4 +1,4 @@
-# INSIGHT · 银赛传媒
+# INSIGHT MEDIA · 银赛传媒
 
 Commercial film and photography studio based in Hangzhou, China — Hangzhou INSIGHT Culture Media Co., Ltd., founded 2019.
 
