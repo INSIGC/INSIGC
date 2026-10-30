@@ -15,7 +15,7 @@ Commercial film and photography studio based in Hangzhou, China — Hangzhou INS
 - English: https://www.insigc.com/en/
 - 中文: https://insigc.com/
 
-## INSIGHT FitCheck
+## INSIGHT FitCheck App
 
 Our in-house desktop tool for one specific problem: a single cut has to run on a dozen platforms, and each one crops, pads and covers the frame differently.
 
